@@ -1,0 +1,186 @@
+.ul{
+    list-style-type: none;
+    
+    display: flex;
+    justify-content: left;
+    padding-right: 50px;
+       
+
+}
+.ul1{
+list-style-type: none;
+display: flex;
+justify-content: right;
+padding-left: 40%;
+
+
+
+
+}
+#nav{
+    display: flex;
+    padding-left: 60px;
+}
+.p1{
+    font: 1000;
+    width: 50%;
+    height: 450px;
+
+}
+.heading1{
+    text-align: center;
+    padding-bottom: 30px;
+    margin-top: 50px;
+}
+.puma{
+  
+    width: 40;
+    height: 200px;
+
+   
+}
+#firstimages{
+    float: left;
+    display: flex;
+    padding: 2px 2px 2px;
+
+
+}
+#Featured{
+    text-align: center;
+}
+.shoes{
+    display: flex;
+    
+    width: 100%;
+    
+}
+.footer{
+    border: solid;
+    height: 150px;
+    list-style-type: none;
+    
+}
+.lists{
+    display: flex;
+    list-style-type: none;
+    background-color: #EA6256;
+}
+#fur{
+   
+    width: 20%;
+    margin-top: 40px;
+}
+#subscribe{
+    border: solid;
+    width: 80%;
+    text-align: center;
+    height:  190px;
+    font-size: x-large;
+    padding: 0%;
+    border-radius: 30px;
+    margin-left: 150px;
+    background-color: pink;
+    
+}
+#testimonials{
+    float: left;
+}
+#bsub{
+    height: 10%;
+}
+#button1{
+    height:50px;
+    background-color: rgb(205, 39, 66);
+    margin-left: 30%;
+    border-radius: 10px;
+}
+#ur{
+    padding-right: 15px;
+    font-size: large;
+    color: black;
+    font: status-bar;
+  
+}
+#home{
+    padding-right: 10px ;
+    color: #EA6256;
+    font-size: large;
+    font: status-bar;
+}
+#trend{
+    padding-right:15px ;
+    font-size: large;
+}
+#about{
+    padding-right: 10px;
+    font-size: large ;
+    font: status bar;
+
+}
+#contact{
+    padding-right: 10px;
+    font-size: larger;
+    font: status-bar;
+}
+#login{
+   padding-right: 30px;
+   font-size: larger;
+   font: status-bar;
+   
+
+}
+#sign{
+    padding-right: 10px;
+    font-size: larger;
+    font: status-bar;
+
+}
+#s{
+    padding-right: 10px;
+    font-size: large;
+}
+#button2{
+    height: 20px;
+    
+}
+.info{
+ border: solid;
+ float: right;
+ margin-right: 65%;
+ right: 300%;
+}
+.labels{
+    border: solid;
+    width: 200px;
+    float: left;   
+}
+.off{
+    border: solid;
+    width: 20%;
+    float: left;
+    margin-top: 30px;
+}
+.black{
+    border: solid;
+}
+#str{
+    padding-bottom: 300px;
+}
+#button3{
+    width: 20%;
+    height: 40px;
+    margin-left: 30%;
+    background-color: #EA6256;
+}
+.b1{
+    background-color: aliceblue;
+    margin-left: 15px;
+}
+.body{
+    background-color: rgb(246, 236, 236);
+
+}
+.this{
+    
+}
